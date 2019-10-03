@@ -1,33 +1,30 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: Data science, molecular evolution, adaptation
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Statistical Genomics and NGS
+    institution: University of New South Wales
+    year: 2013
+  - course: MSci in Infections Biology and Epidemiology
+    institution: Swiss Tropical Institute
     year: 2008
+  - course: Bachelor of Biomedical Science
+    institution: University of Melbourne
+    year: 2005
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Data Science
+- Molecular Evolution
 - Information Retrieval
-name: Nelson Bighetti
+name: Kerensa McElroy
 organizations:
-- name: Stanford University
+- name: CSIRO
   url: ""
-role: Professor of Artificial Intelligence
+role: Research Scientist and Data School Lead Facilitator 
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
